@@ -54,6 +54,7 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<DataProcessor>Отладка</DataProcessor>
+			<DataProcessor>Отладка_ПоискНастроекИФункциональныхОпций</DataProcessor>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
