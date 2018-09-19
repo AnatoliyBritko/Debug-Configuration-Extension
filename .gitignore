@@ -10,7 +10,6 @@ oscript_modules/
 *.ospx
 *.epf
 *.cf
-*.cfe
 ConfigDumpInfo.xml
 ServiceBases/
 tools/Allure/
