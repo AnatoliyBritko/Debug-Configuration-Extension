@@ -8,7 +8,6 @@ log.txt
 env.json
 oscript_modules/
 *.ospx
-*.epf
 *.cf
 ConfigDumpInfo.xml
 ServiceBases/
